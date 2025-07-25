@@ -3,4 +3,10 @@ This repository is created as part of my hands-on learning journey with Docker. 
 
 All credit for the original material goes to the author of the tutorial.
 
-I have used this code to practice, experiment, and document my understanding of Docker. Any modifications or notes I add here reflect my own learning process.
+## License & Credits  
+
+This repository contains code adapted from:  [Original Repository](https://github.com/vikashishere/YT-MLOPS-Docker-Masterclass.git)  
+
+The original code is licensed under the [MIT License](./LICENSE).  
+
+All credit goes to the original author. I have used this code for **learning purposes** and may add my own modifications and notes.
