@@ -9,4 +9,4 @@ This repository contains code adapted from:  [Original Repository](https://githu
 
 The original code is licensed under the [MIT License](./LICENSE).  
 
-All credit goes to the original author. I have used this code for **learning purposes** and may add my own modifications and notes.
+All credit goes to the original author. I have used this code for learning purposes and may add my own modifications and notes.
